@@ -1,1 +1,1 @@
-export {};
+export const mockPayments = [ { id: 'p1' } ];
